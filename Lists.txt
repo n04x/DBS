@@ -7,6 +7,7 @@ God of Destruction
 Iwen.
 Angel
 Awamo
+
 Universe 2
 Rank #6
 Kaioshin
@@ -15,6 +16,7 @@ God of Destruction
 Jerez
 Angel
 Sour
+
 Universe 3
 Rank #7
 Kaioshin
@@ -34,6 +36,7 @@ Angel
 Cognic
 Fighter
 Damon, cicada insect
+
 Universe 5
 Rank #3
 Excluded from participating
@@ -43,6 +46,7 @@ God of Destruction
 Arak
 Angel
 Cukatail
+
 Universe 6
 Rank #10
 Kaioshin
@@ -59,6 +63,7 @@ Cabba, male Saiyan.
 Frost, male Frost Demon.
 Botamo, male Unknown.
 Auta Magetta, Male, Metalman.
+
 Universe 7
 Rank #11
 Kaioshin
@@ -78,6 +83,7 @@ Majin Boo, male Majin.
 No. 18, female Android.
 No. 17, male Android.
 Tenshinhan, male Earthling.
+
 Universe 8
 Rank #4
 Excluded from participating
@@ -87,6 +93,7 @@ God of Destruction
 Liquir
 Angel
 Korn
+
 Universe 9
 Rank #12
 Kaioshin
@@ -99,6 +106,7 @@ Fighter
 Basil, male Unknown
 Lavender, male Unknown
 Bergamo, male Unknown
+
 Universe 10
 Rank #8
 Kaioshin
@@ -124,6 +132,7 @@ Toppo, Male Unknown.
 Jiren, Male Unknown.
 Dyspo, Male Unknown.
 Kahseral, Male Humanoid.
+
 Universe 12
 Rank #2
 Excluded from participating
