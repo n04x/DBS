@@ -39,3 +39,17 @@ kaioshin(roh, 9).
 kaioshin(gowasu, 10).
 kaioshin(khai, 11).
 kaioshin(ugg, 12).
+
+%% List of God of Destruction abbreivated to god and their respective universe; god(name, universe).
+god(iwen, 1).
+god(jerez, 2).
+god(mosco, 3).
+god(quitela, 4).
+god(arak, 5).
+god(champa, 6).
+god(beerus, 7).
+god(liquir, 8).
+god(sidra, 9).
+god(rumsshi, 10).
+god(belmod, 11).
+god(geen, 12).
