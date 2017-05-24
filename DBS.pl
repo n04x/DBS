@@ -53,3 +53,17 @@ god(sidra, 9).
 god(rumsshi, 10).
 god(belmod, 11).
 god(geen, 12).
+
+%% List of Angel with the name of god and their universe; angel(name, god, universe).
+angel(awamo, iwen, 1).
+angel(sour, peru, 2).
+angel(campahri, mosco, 3).
+angel(cognic, quitela, 4).
+angel(cukatail, arak, 5).
+angel(vados, champa, 6).
+angel(whis, beerus, 7).
+angel(korn, liquir, 8).
+angel(mojito, sidra, 9).
+angel(cus, rumsshi, 10).
+angel(marcarita, belmod, 11).
+angel(martinu, geen, 12).
